@@ -29,6 +29,10 @@ h1 {
     margin: 5px 0;
 }
 
+.member-list a {
+    text-decoration: none;
+}
+
 .member-page div {
     margin-bottom: 20px;
 }
